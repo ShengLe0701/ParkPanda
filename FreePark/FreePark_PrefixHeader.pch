@@ -1,0 +1,23 @@
+//
+//  FreePark_PrefixHeader.pch
+//  FreePark
+//
+//  Created by LovelyPony on 23/02/2016.
+//  Copyright © 2016 TanWernling. All rights reserved.
+//
+
+#ifndef FreePark_PrefixHeader_pch
+#define FreePark_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import "UIView+Addition.h"
+#import "UIViewController+Addition.h"
+#endif
+
+
+#endif /* FreePark_PrefixHeader_pch */

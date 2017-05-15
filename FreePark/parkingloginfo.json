@@ -1,0 +1,47 @@
+[
+    {
+        "parkingid" : "1234567890",
+        "parkingname" : "Parking1",
+        "parkingaddress" : "Kuchai Lama Jalan, Kuala lumpur",
+        "parkingprice" : 2,
+        "logdate" : "2016/01/11",
+        "logtime" : "16:12:31",
+        "iconpicture" : "point_gjswzx@2x.png"
+    },
+    {
+        "parkingid" : "1234567890",
+        "parkingname" : "Parking2",
+        "parkingaddress" : "Kuchai Lama Jalan, Kuala lumpur",
+        "parkingprice" : 3,
+        "logdate" : "2016/01/12",
+        "logtime" : "16:12:32",
+        "iconpicture" : "point_hlgc@2x.png"
+    },
+    {
+        "parkingid" : "1234567890",
+        "parkingname" : "Parking3",
+        "parkingaddress" : "Kuchai Lama Jalan, Kuala lumpur",
+        "parkingprice" : 4,
+        "logdate" : "2016/01/13",
+        "logtime" : "16:12:33",
+        "iconpicture" : "point_rmgc@2x.png"
+    },
+    {
+        "parkingid" : "1234567890",
+        "parkingname" : "Parking4",
+        "parkingaddress" : "Kuchai Lama Jalan, Kuala lumpur",
+        "parkingprice" : 5,
+        "logdate" : "2016/01/14",
+        "logtime" : "16:12:30",
+        "iconpicture" : "point_tggc@2x.png"
+    },
+    {
+        "parkingid" : "1234567890",
+        "parkingname" : "Parking4",
+        "parkingaddress" : "Kuchai Lama Jalan, Kuala lumpur",
+        "parkingprice" : 6,
+        "logdate" : "2016/01/15",
+        "logtime" : "16:12:35",
+        "iconpicture" : "point_tggc@2x.png"
+    }
+]
